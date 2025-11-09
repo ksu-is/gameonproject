@@ -1,13 +1,13 @@
-- [ ] Find existing repository
-  - [ ] Hangman
-  - [ ] Number Guessing
-  - [ ] Rock Paper Scissors
-  - [ ] Mastermind
-- [ ] Test and evaluate repository
-  - [ ] Hangman
-  - [ ] Number Guessing
-  - [ ] Rock Paper Scissors
-  - [ ] Mastermind
+- [x] Find existing repository
+  - [x] Hangman
+  - [x] Number Guessing
+  - [x] Rock Paper Scissors
+  - [x] Mastermind
+- [x] Test and evaluate repository
+  - [x] Hangman
+  - [x] Number Guessing
+  - [x] Rock Paper Scissors
+  - [x] Mastermind
 - [ ] Create Hangman Code
   - [ ] Test and Ensure Running Smoothly
 - [ ] Create Number Guessing Code
